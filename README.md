@@ -9,3 +9,5 @@ $ npm install
 运行：
 
 $ node app.js
+
+--NeteaseCloudMusic项目目录里面有项目效果图
