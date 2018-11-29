@@ -1,3 +1,4 @@
+（NeteaseCloudMusic项目目录里面有项目效果图）
 请务必先安装 网易云南音乐Node.js版API
 
 安装：
@@ -9,5 +10,3 @@ $ npm install
 运行：
 
 $ node app.js
-
---NeteaseCloudMusic项目目录里面有项目效果图
