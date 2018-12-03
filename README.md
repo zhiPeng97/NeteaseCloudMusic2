@@ -10,11 +10,11 @@ $ npm install
 $ node app.js
 
 
-![videoDetails](./NeteaseCloudMusic/效果图/details2.png)  ![videoDetails](./NeteaseCloudMusic/效果图/Boutique playlist.png)
+![videoDetails](./NeteaseCloudMusic/效果图/details2.png)  ![videoDetails](./NeteaseCloudMusic/效果图/Boutiqueplaylist.png)
 
 ![videoDetails](./NeteaseCloudMusic/效果图/Current playlist.png)  ![videoDetails](./NeteaseCloudMusic/效果图/Login.png)
 
-![videoDetails](./NeteaseCloudMusic/效果图/Play page.png)  ![videoDetails](./NeteaseCloudMusic/效果图/Search within playlists.png)
+![videoDetails](./NeteaseCloudMusic/效果图/Play page.png)  ![videoDetails](./NeteaseCloudMusic/效果图/Searchwithinplaylists.png)
 
 ![videoDetails](./NeteaseCloudMusic/效果图/details2.png)  ![videoDetails](./NeteaseCloudMusic/效果图/details.png)
  
