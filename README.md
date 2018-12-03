@@ -10,4 +10,4 @@ $ npm install
 $ node app.js
 
 
-![videoDetails](../NeteaseCloudMusic/效果图/videoDetails.png)
+![videoDetails](NeteaseCloudMusic2/NeteaseCloudMusic/效果图/videoDetails.png)
